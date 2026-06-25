@@ -76,7 +76,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Flask server.SWTID-2026-6798- A College Food Choices Case Study">
+  <component name="RunManager" selected="Python.app">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SWTID-2026-6798- A College Food Choices Case Study" />
       <option name="ENV_FILES" value="" />
